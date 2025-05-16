@@ -17,7 +17,7 @@ export default function Home() {
               </h1>
               <p className="text-xl md:text-2xl text-slate-700 dark:text-slate-300">
                 MERN Stack Developer crafting engaging I specialize in building dynamic
-                responsive Website😎
+                responsive Website
               </p>
               <div className="flex flex-wrap gap-3 pt-2">
                 <Button asChild size="lg">
